@@ -10,6 +10,8 @@ Here are the notebook files of OpenCV training Course
 https://www.aparat.com/v/SmFvW
 
 
+تصاویر و ویدیوهای استفاده شده در دوره آموزشی  در سه فایل زیپ قرارداده شده است
+
 در صورت نیاز به اطلاعات بیشتر لطفا با یکی از ایمیل های زیر در ارتباط باشید
 
 moheb.zandi@gmail.com
