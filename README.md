@@ -15,4 +15,5 @@ https://www.aparat.com/v/SmFvW
 در صورت نیاز به اطلاعات بیشتر لطفا با یکی از ایمیل های زیر در ارتباط باشید
 
 moheb.zandi@gmail.com
+
 datasciencetoolkit@gmail.com
